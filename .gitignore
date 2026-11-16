@@ -1,0 +1,8 @@
+# entorno virtual - pesa mucho, cada quien crea el suyo con pip install
+venv/
+# datos crudos - Inside Airbnb los sigue publicando, no hace falta duplicarlos en el repo
+*.csv
+*.csv.gz
+# archivos temporales de Jupyter
+.ipynb_checkpoints/
+__pycache__/
