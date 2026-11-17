@@ -93,4 +93,4 @@ jupyter notebook analisis-airbnb-bogota.ipynb
 ```
 
 ## Autora
-Daniela Ardila Parrado — [LinkedIn](#) · [GitHub](#)
+Daniela Ardila Parrado — [[LinkedIn](https://www.linkedin.com/in/daniela-ardila-parrado/)](#) · [[GitHub](https://github.com/danielaparra7409)](#)
